@@ -11,6 +11,7 @@
   "dependencies": {
     "csv-writer": "^1.6.0",
     "node-fetch": "^2.6.7",
-    "node-html-parser": "^5.3.3"
+    "node-html-parser": "^5.3.3",
+    "pkg": "^5.7.0"
   }
 }
